@@ -1,0 +1,15 @@
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\bin\Debug\net10.0\Lab1TaskSelector.exe
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\bin\Debug\net10.0\Lab1TaskSelector.deps.json
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\bin\Debug\net10.0\Lab1TaskSelector.runtimeconfig.json
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\bin\Debug\net10.0\Lab1TaskSelector.dll
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\bin\Debug\net10.0\Lab1TaskSelector.pdb
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.AssemblyInfoInputs.cache
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.AssemblyInfo.cs
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.csproj.CoreCompileInputs.cache
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.sourcelink.json
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.dll
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\refint\Lab1TaskSelector.dll
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.pdb
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\Lab1TaskSelector.genruntimeconfig.cache
+C:\Users\tynuk\lab1-John-Bastille\Lab1TaskSelector\obj\Debug\net10.0\ref\Lab1TaskSelector.dll
