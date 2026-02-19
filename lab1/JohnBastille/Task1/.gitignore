@@ -1,0 +1,11 @@
+# .NET / Visual Studio / VS Code
+bin/
+obj/
+.vs/
+DotNetHealthCheck/
+*.user
+*.suo
+*.cache
+*.pdb
+*.deps.json
+*.runtimeconfig.json
