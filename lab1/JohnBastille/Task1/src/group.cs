@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class Group
 {
     // Make Name writable (has public set)
-    public string Name { get; set; } = string.Empty;
+    public string Name { get; }
 
     public List<Student> Students { get; set; } = new List<Student>();
 
@@ -31,3 +31,4 @@ public class Group
         }
     }
 }
+    
