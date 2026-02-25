@@ -5,6 +5,7 @@ using System.Data.Common;
 using System.Reflection.Metadata;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.Intrinsics.X86;
+using System.Runtime.InteropServices;
 
 class Program
 {
@@ -26,7 +27,8 @@ class Program
         PSe2.AddStudent(new Student(3, "Eve", "Davis", "EveDavis@gmail.com", 7.5)); 
 
     
-        
+        PSe.PrintAll();
+        PSe2.PrintAll();
     }
     
 }
