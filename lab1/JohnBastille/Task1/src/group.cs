@@ -1,12 +1,17 @@
 using System;
+using System.Collections.Generic;
+
 public class Group
 {
-   public string Name { get; set; }
+    // Make Name writable (has public set)
+    public string Name { get; set; } = string.Empty;
+
     public List<Student> Students { get; set; } = new List<Student>();
 
-    public void AddStudent(Student Stud)
+    public void AddStudent(Student student)
     {
-        Students.Add(Stud);
+        if (student == null) throw new ArgumentNullException(nameof(student));
+        Students.Add(student);
     }
 
     public void PrintAll()
@@ -14,10 +19,15 @@ public class Group
         Console.WriteLine($"Group: {Name}");
         Console.WriteLine("Students:");
 
-        foreach (var Stud in Students)
+        if (Students.Count == 0)
         {
-            Console.WriteLine($"{Stud.Id}: {Stud.FirstName} {Stud.LastName} - {Stud.Email} - Avg: {Stud.AverageGrade}");
+            Console.WriteLine("  (no students)");
+            return;
+        }
+
+        foreach (var s in Students)
+        {
+            Console.WriteLine($"{s.Id}: {s.FirstName} {s.LastName} - {s.Email} - Avg: {s.AverageGrade}");
         }
     }
-
 }
