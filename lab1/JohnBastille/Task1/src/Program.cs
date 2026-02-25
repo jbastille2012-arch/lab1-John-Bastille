@@ -24,11 +24,9 @@ class Program
         PSe2.AddStudent(new Student(2, "Charlie", "Brown", "CharlieBrown@gmail.com", 8.0));
 
         PSe2.AddStudent(new Student(3, "Eve", "Davis", "EveDavis@gmail.com", 7.5)); 
+
+    
         
-        PSe.PrintAll();
-        PSe2.PrintAll();
-
     }
-
-
+    
 }
